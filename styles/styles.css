@@ -38,5 +38,21 @@ img{vertical-align:middle;}fieldset{border:0;margin:0;padding:0;}textarea{resize
 
 
 body {
-
+    background-color: #eaeaea;
+    font-family: Arial, sans-serif;
+    font-size: 1.14vmax;
+    line-height: 1.33vmax;
+}
+.wrap {
+    width: 81.66vw;
+    margin: 0 auto;
+    position: relative;
+}
+.dark {
+    background-color: #2e2e30;
+    color: #fff;
+}
+.grey {
+    background-color: #838d8f;
+    color: #fff;
 }
