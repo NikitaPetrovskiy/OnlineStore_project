@@ -135,3 +135,44 @@ div.btn {
 #cart:hover svg {
     fill: #fff;
 }
+#menu {
+    background-color: #fff;
+    width: 100%;
+    height: 4.16vmax;
+
+}
+nav li {
+    list-style: none;
+}
+nav a {
+    text-decoration: none;
+}
+#main_nav,
+#main_nav li,
+#main_nav a {
+    display: flex;
+    flex-flow: row;
+    height: inherit;
+    align-items: center;
+    justify-content: center;
+}
+#main_nav a {
+    padding: 0 1.5vmax;
+    color: #3c3d41;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#main_nav a:hover {
+    background-color: #3c3d41;
+    color: #fff;
+}
+#search_button svg {
+    width: 1.5vmax;
+    height: 1.5vmax;
+}
+#search_button {
+    position: absolute;
+    cursor: pointer;
+    right: 0;
+    top: calc(50% - 0.75vmax);
+}
