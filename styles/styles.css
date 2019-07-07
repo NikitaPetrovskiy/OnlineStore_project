@@ -190,3 +190,93 @@ nav a {
     min-height: 100%;
     width: 100%;
 }
+main {
+    padding-top: 4.16vmax;
+    padding-bottom: 6.66vmax;
+}
+#left_bar {
+    width: 19.6vw;
+}
+#right_bar {
+    width: 60.83vw;
+}
+.box {
+    border-radius: 0.33vw;
+    background-color: #fff;
+}
+#load_more {
+    border: none;
+    width: 100%;
+    border-radius: 0.33vw;
+    color: #fff;
+    background-color: #b8c6c7;
+    font-size: 1.25vmax;
+    padding-top: 1.66vmax;
+    padding-bottom: 1.66vmax;
+    margin-top:  1.66vmax;
+}
+#load_more:hover {
+    transform: scale(0.95);
+}
+.product {
+    flex-flow: column nowrap;
+    text-decoration: none;
+    padding: 1.66vmax 1.66vw;
+    width: 15.16vw;
+    height: 22vmax;
+    margin-bottom: 1.66vmax;
+    margin-right: 1.66vw;
+    position: relative;
+}
+.product:nth-of-type(3n) {
+    margin-right: 0;
+}
+.product:hover {
+    transform: scale(1.05);
+}
+.img_product {
+    width: 100%;
+    height: 13.33vmax;
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 2.08vmax;
+}
+.img_product img {
+    height: 100%;
+    width: auto;
+}
+.product h2 {
+    text-align: center;
+    margin-bottom: 0.83vmax;
+    font-size: 1.25vmax;
+    line-height: 1.5vmax;
+    color: #3a3d3f;
+    font-weight: bold;
+    /*вопрос*/
+    padding-right: 1.5vmax;
+    padding-left: 1.5vmax;
+}
+.product p:first-of-type {
+    text-align: center;
+    font-style: italic;
+    color: #838c8e;
+    font-size: 1vmax;
+}
+.price {
+    margin-top: 0.83vmax;
+    color: #3a3d3f;
+    font-weight: bold;
+    font-size: 1.30vmax;
+}
+.tag {
+    background-color: #86ce8b;
+    color: #fff;
+    padding: 0.41vmax;
+    font-size: 0.83vmax;
+    text-transform: uppercase;
+    right: 1.06vmax;
+    top: 1.06vmax;
+    position: absolute;
+    z-index: 1;
+    letter-spacing: 0.1vw;
+}
