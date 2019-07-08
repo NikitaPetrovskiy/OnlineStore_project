@@ -280,3 +280,55 @@ main {
     z-index: 1;
     letter-spacing: 0.1vw;
 }
+.list_box {
+    width: 100%;
+}
+.title_box {
+    width: 85%;
+    height: 4.16vmax;
+    padding: 0 1.66vmax;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+}
+.title_box.open svg{
+    fill: #838d8f;
+    transform: rotate(90deg);
+}
+.title_box svg {
+    width: 0.41vmax;
+    height: 0.66vmax;
+    fill: #ccc;
+}
+.title_box p {
+    color: #3c3d3e;
+    font-size: 0.91vmax;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.2vmax;
+}
+.list_link {
+    height: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #838d8f;
+}
+.list_link.open {
+    height: auto;
+    overflow: auto;
+    padding: 1.66vmax;
+}
+.list_link a {
+    display: block;
+    width: 100%;
+    color: #daddde;
+    font-size: 1.11vmax;
+}
+.list_link a:hover {
+    color: #fff;
+}
+.list_link li {
+    margin-bottom: 1.25vmax;
+}
+.list_link li:last-of-type {
+    margin-bottom: 0;
+}
