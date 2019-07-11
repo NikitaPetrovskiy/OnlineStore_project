@@ -382,7 +382,66 @@ input[type="checkbox"]:checked + label {
     text-align: center;
     width: 30%;
 }
-.price_box input:focus {
+.price_box input:focus,
+#newsLetter input:focus {
     border: none;
     outline: none;
+}
+footer {
+    width: 100%;
+    min-height: 20.25vmax;
+    background-color: #fff;
+    padding-top: 5vmax;
+    padding-bottom: 5vmax;
+}
+#footer_nav {
+    margin-bottom: 3vmax;
+}
+#footer_nav a {
+    text-transform: uppercase;
+    color: #3a3d3f;
+    font-size: 1vmax;
+    font-weight: bold;
+    margin-right: 2vmax;
+}
+#footer_nav li:last-of-type a {
+    margin-right: 0;
+}
+#footer_nav a:hover {
+    text-decoration: underline;
+}
+#newsLetter p {
+    color: #3a3d3f;
+    font-weight: bold;
+    font-size: 0.9vmax;
+    margin-right: 2vmax;
+}
+#newsLetter input {
+    border: none;
+    height: 2.66vmax;
+    width: 15.8vmax;
+    background-color: #eee;
+    color: #878787;
+    font-size: 1vmax;
+    padding-left: 1.25vmax;
+    padding-right: 3vmax;
+    border-radius: 0.33vw;
+    background-image: url("../images/Mail-icon.png");
+    background-repeat: no-repeat;
+    background-position: 95% 50%;
+}
+#soc_list {
+    margin-top: 2.8vmax;
+}
+#soc_list li {
+    list-style: none;
+    margin-right: 3.5vmax;
+}
+#soc_list li:last-of-type {
+    margin-right: 0;
+}
+#soc_list svg {
+    height: 1.25vmax;
+    width: 1.25vmax;
+    fill: #838d8f;
 }
