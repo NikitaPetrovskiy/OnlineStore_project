@@ -445,3 +445,118 @@ footer {
     width: 1.25vmax;
     fill: #838d8f;
 }
+#cart_box {
+    flex-flow: column nowrap !important;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 35vw;
+    height: 100vh;
+    z-index: 10;
+    background-color: #fff;
+    box-shadow: -3px 2px 9px rgba(88, 88, 88, 0.52);
+    transform: translateX(100%);
+}
+#cart_box.open {
+    transform: translateX(0);
+}
+.title_cart {
+    box-sizing: border-box;
+    background-color: #5ba582;
+    width: 100%;
+    height: 4vmax;
+    padding: 1vmax 1.5vmax;
+    color: #fff;
+    fill: #fff;
+    cursor: pointer;
+}
+.title_cart:hover {
+    background-color: #3ba54f;
+}
+.title_cart #next {
+    width: 1.6vmax;
+    height: 1.6vmax;
+}
+.title_cart p {
+    font-size: 1.1vmax;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.2vmax;
+}
+#order_btn, #sing_btn {
+    width: 100%;
+    height: 4vmax;
+    color: #fff;
+    background-color: rgba(29, 132, 180, 1.00);
+    font-size: 1.1vmax;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.2vmax;
+}
+#sing_btn {
+    border-radius: 0.33vmax;
+}
+#order_btn:hover,
+#sing_btn:hover {
+    background-color: rgb(32, 155, 180);
+}
+#black_fill {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0,0,0,.7);
+    z-index: 11;
+    top: 0;
+    left: 0;
+    display: none;
+}
+#modal {
+    position: fixed;
+    z-index: 12;
+    width: 30vw;
+    top: 15vh;
+    left: calc(50% - 15vw);
+    display: none;
+}
+#black_fill.open,
+#modal.open {
+    display: block !important;
+}
+#conten_modal {
+    background-color: #fff;
+    border-radius: 0.33vmax;
+    padding: 1.5vw;
+    width: 100%;
+}
+#close_modal {
+    position: absolute;
+    width: 1.5vmax;
+    height: 1.5vmax;
+    top: -2vmax;
+    right: -5vmax;
+    cursor: pointer;
+    fill: #fff;
+}
+#close_modal:hover {
+    transform: scale(1.20);
+}
+#modal_heading p {
+    padding-bottom: 1.5vmax;
+    text-align: center;
+    font-size: 1.5vmax;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.2vmax;
+}
+#conten_modal .input {
+    width: 100%;
+    margin-bottom: 1vmax;
+}
+#conten_modal .input input {
+    width: 100%;
+    height: 3vmax;
+    text-align: center;
+    border-radius: 0.33vmax;
+    border: 1px solid #ccc;
+    font-size: 1.1vmax;
+}

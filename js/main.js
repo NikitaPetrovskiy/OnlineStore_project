@@ -16,10 +16,22 @@ $(document).ready(function () {
          $('input[name="maxPrice"]').val('$' + ui.values[1]);
         }
     });
-
     $('input[name="minPrice"]').val('$' +
         $('#slider_price').slider('values', 0) );
     $('input[name="maxPrice"]').val('$' +
         $('#slider_price').slider('values', 1) );
+
+
+    $('#cart, .title_cart').on('click', function () {
+       $('#cart_box').toggleClass('open');
+    });
+    $('#sing').on('click', function () {
+       $('#black_fill').toggleClass('open');
+        $('#modal').toggleClass('open');
+    });
+    $('#close_modal, #black_fill').on('click', function () {
+        $('#black_fill').toggleClass('open');
+        $('#modal').toggleClass('open');
+    });
 
 });
