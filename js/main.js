@@ -34,4 +34,45 @@ $(document).ready(function () {
         $('#modal').toggleClass('open');
     });
 
+    $('#search_button').on('click', function () {
+       $('#search_bar').toggleClass('open');
+    });
+    $('#load_more').on('click', function (e) {
+        e.preventDefault();
+        $('.list_product').append(`
+        <a class="product box anime main_flex__nowrap flex__jcontent_center flex__align-items_center">
+                <div class="tag box">
+                    new
+                </div>
+                <div class="img_product">
+                    <img src="images/01.png" alt="">
+                </div>
+                    <h2>Our Legacy Splash Jacquard Knit</h2>
+                    <p>Black Grey Plants</p>
+                    <p class="price">$290</p>
+            </a>
+            <a class="product box anime main_flex__nowrap flex__jcontent_center flex__align-items_center">
+                <div class="tag box">
+                    new
+                </div>
+                <div class="img_product">
+                    <img src="images/01.png" alt="">
+                </div>
+                    <h2>Our Legacy Splash Jacquard Knit</h2>
+                    <p>Black Grey Plants</p>
+                    <p class="price">$290</p>
+            </a>
+            <a class="product box anime main_flex__nowrap flex__jcontent_center flex__align-items_center">
+                <div class="tag box">
+                    new
+                </div>
+                <div class="img_product">
+                    <img src="images/01.png" alt="">
+                </div>
+                    <h2>Our Legacy Splash Jacquard Knit</h2>
+                    <p>Black Grey Plants</p>
+                    <p class="price">$290</p>
+            </a>`)
+    });
+
 });
