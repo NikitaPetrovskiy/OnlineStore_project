@@ -69,5 +69,4 @@ $(document).ready(function () {
                 <p class="price pr_sale">$44 <span class="price_through"> $56</span></p>
             </a>`)
     });
-
 });
