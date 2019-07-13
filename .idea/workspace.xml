@@ -2,7 +2,584 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27179075-59bf-43e5-a678-db9ff98259dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/css/base/images/ui-icons_444444_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/css/base/images/ui-icons_555555_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/css/base/images/ui-icons_777620_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/css/base/images/ui-icons_777777_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/css/base/images/ui-icons_cc0000_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/css/base/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/css/base/jquery-ui-1.9.2.custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/css/base/jquery-ui-1.9.2.custom.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/MIT-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/accordion/collapsible.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/accordion/custom-icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/accordion/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/accordion/fillspace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/accordion/hoverintent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/accordion/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/accordion/no-auto-height.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/accordion/sortable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/addClass/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/addClass/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/animate/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/animate/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/categories.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/combobox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/custom-data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/folding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/images/jquery_32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/images/jqueryui_32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/images/sizzlejs_32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/images/transparent_1x1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/images/ui-anim_basic_16x16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/london.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/maxheight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/multiple-remote.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/multiple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/remote-jsonp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/remote-with-cache.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/remote.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/autocomplete/xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/button/checkbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/button/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/button/icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/button/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/button/radio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/button/splitbutton.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/button/toolbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/alt-field.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/animation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/buttonbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/date-formats.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/date-range.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/dropdown-month-year.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/icon-trigger.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/images/calendar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/inline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/localization.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/min-max.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/multiple-calendars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/other-months.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/datepicker/show-week.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/demos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/dialog/animated.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/dialog/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/dialog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/dialog/modal-confirmation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/dialog/modal-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/dialog/modal-message.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/dialog/modal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/constrain-movement.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/cursor-style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/delay-start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/events.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/handle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/revert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/scroll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/snap-to.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/sortable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/draggable/visual-feedback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/accepted-elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/images/high_tatras.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/images/high_tatras2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/images/high_tatras2_min.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/images/high_tatras3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/images/high_tatras3_min.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/images/high_tatras4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/images/high_tatras4_min.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/images/high_tatras_min.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/photo-manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/propagation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/revert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/shopping-cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/droppable/visual-feedback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/effect/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/effect/easing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/effect/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/hide/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/hide/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/images/calendar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/images/demo-config-on-tile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/images/demo-config-on.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/images/demo-spindown-closed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/images/demo-spindown-open.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/images/icon-docs-info.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/images/pbar-ani.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/menu/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/menu/icons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/menu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/position/cycler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/position/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/position/images/earth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/position/images/flight.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/position/images/rocket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/position/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/progressbar/animated.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/progressbar/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/progressbar/images/pbar-ani.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/progressbar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/progressbar/resize.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/removeClass/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/removeClass/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/animate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/aspect-ratio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/constrain-area.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/delay-start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/helper.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/max-min.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/snap-to-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/synchronous-resize.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/textarea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/resizable/visual-feedback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/selectable/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/selectable/display-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/selectable/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/selectable/serialize.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/show/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/show/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/colorpicker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/hotelrooms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/multiple-vertical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/range-vertical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/range.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/rangemax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/rangemin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/side-scroll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/slider-vertical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/slider/steps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/sortable/connect-lists-through-tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/sortable/connect-lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/sortable/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/sortable/delay-start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/sortable/display-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/sortable/empty-lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/sortable/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/sortable/items.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/sortable/placeholder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/sortable/portlets.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/spinner/currency.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/spinner/decimal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/spinner/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/spinner/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/spinner/latlong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/spinner/overflow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/spinner/time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/switchClass/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/switchClass/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/ajax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/ajax/content1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/ajax/content2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/ajax/content3-slow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/ajax/content4-broken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/bottom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/collapsible.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/manipulation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/mouseover.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/sortable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tabs/vertical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/toggle/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/toggle/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/toggleClass/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/toggleClass/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/ajax/content1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/ajax/content2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/custom-animation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/custom-content.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/custom-style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/images/st-stephens.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/images/tower-bridge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/tracking.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/tooltip/video-player.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/widget/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/demos/widget/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/accordion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/autocomplete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/blind-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/bounce-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/clip-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/datepicker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/dialog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/draggable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/drop-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/droppable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/explode-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/fade-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/fold-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/highlight-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/jQuery.widget.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/mouse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/position.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/progressbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/puff-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/pulsate-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/resizable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/scale-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/selectable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/shake-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/size-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/slide-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/sortable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/spinner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/tooltip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/docs/transfer-effect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/external/globalize.culture.de-DE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/external/globalize.culture.ja-JP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/external/globalize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/external/jquery.bgiframe-2.1.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/external/jquery.cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/external/jquery.metadata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/external/jquery.mousewheel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/external/jshint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/external/qunit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/external/qunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/grunt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/jquery-1.8.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_444444_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_555555_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_777620_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_777777_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_cc0000_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.accordion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.autocomplete.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.core.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.progressbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.resizable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.selectable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.spinner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/jquery.ui.tooltip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_444444_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_555555_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_777620_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_777777_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_cc0000_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.accordion.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.autocomplete.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.button.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.core.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.datepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.dialog.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.menu.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.progressbar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.resizable.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.selectable.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.slider.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.spinner.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.tabs.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/themes/base/minified/jquery.ui.tooltip.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.accordion.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.autocomplete.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.button.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.core.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.datepicker.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.dialog.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.draggable.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.droppable.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-blind.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-bounce.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-clip.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-drop.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-explode.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-fade.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-fold.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-highlight.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-pulsate.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-scale.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-shake.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-slide.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect-transfer.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.effect.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.menu.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.mouse.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.position.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.progressbar.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.resizable.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.selectable.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.slider.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.sortable.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.spinner.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.tabs.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.tooltip.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui.widget.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery-ui-i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ar-DZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-az.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-cy-GB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-en-AU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-en-GB.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-en-NZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-fr-CH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-hy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-kk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-lb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-nl-BE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-rm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sr-SR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-ta.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-tj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-zh-HK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/i18n/jquery.ui.datepicker-zh-TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery-ui.custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.accordion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.autocomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.draggable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.droppable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-blind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-bounce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-clip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-drop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-explode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-fade.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-pulsate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-scale.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-shake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-slide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect-transfer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.effect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.position.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.progressbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.resizable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.selectable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.sortable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.spinner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/jquery.ui.widget.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery-ui-i18n.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-af.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ar-DZ.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-az.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-bg.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-bs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ca.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-cs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-cy-GB.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-da.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-de.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-el.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-AU.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-GB.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-NZ.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-eo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-es.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-et.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-eu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fa.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fr-CH.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-gl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-he.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hy.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-id.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-is.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-it.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ja.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ka.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-kk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-km.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ko.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lt.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-mk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ml.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ms.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nl-BE.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-no.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pt-BR.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pt.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-rm.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ro.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ru.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sq.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sr-SR.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ta.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-th.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-tj.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-tr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-uk.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-vi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-CN.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-HK.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-TW.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery-ui.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.accordion.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.autocomplete.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.button.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.core.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.datepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.dialog.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.draggable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.droppable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-blind.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-bounce.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-clip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-drop.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-explode.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-fade.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-fold.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-highlight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-pulsate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-scale.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-shake.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-slide.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect-transfer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.effect.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.menu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.mouse.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.position.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.progressbar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.resizable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.selectable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.slider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.sortable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.spinner.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.tabs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.tooltip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/development-bundle/ui/minified/jquery.ui.widget.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/js/jquery-1.8.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/js/jquery-ui-1.9.2.custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-ui-1.9.2.custom/js/jquery-ui-1.9.2.custom.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
@@ -22,82 +599,54 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
-                  <caret line="120" column="32" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
+                <state relative-caret-position="30">
+                  <caret line="349" column="29" selection-start-line="349" selection-start-column="29" selection-end-line="349" selection-end-column="29" />
                   <folding>
                     <element signature="n#head#0;n#html#0;n#!!top" />
-                    <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#style#0;n#svg#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#style#0;n#svg#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#path#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#div#1;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#nav#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#path#0;n#svg#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#2;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#div#0;n#div#2;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#3;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#nav#0;n#div#1;n#div#3;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#style#0;n#label#0;n#li#0;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#label#0;n#li#1;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#label#0;n#li#2;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#label#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#label#0;n#li#4;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#label#0;n#li#5;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#label#0;n#li#6;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#label#0;n#li#7;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#label#0;n#li#8;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#label#0;n#li#9;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#div#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#div#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#1;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#2;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#3;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#4;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#5;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#6;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#7;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#8;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#button#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#article#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#section#0;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#aside#0;n#section#0;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#1;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#2;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#aside#0;n#section#2;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#1;n#header#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#2;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#section#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#1;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#section#1;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#2;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#section#2;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#section#3;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#0;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#1;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#2;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#a#2;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#3;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#4;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#5;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#6;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#7;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#a#8;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#button#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#nav#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#ul#0;n#nav#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#a#0;n#li#0;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#path#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#0;n#li#1;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#a#0;n#li#1;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#path#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#a#0;n#li#2;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#svg#0;n#a#0;n#li#2;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#path#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#article#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#0;n#article#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
                 </state>
               </provider>
@@ -106,7 +655,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/../../My_freedom_lessons/pizza_test_project/store_page/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
+                <state relative-caret-position="2184">
                   <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
@@ -124,20 +673,20 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/styles/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="575" column="19" lean-forward="true" selection-start-line="575" selection-start-column="19" selection-end-line="575" selection-end-column="19" />
+                <state relative-caret-position="353">
+                  <caret line="419" column="26" lean-forward="true" selection-start-line="419" selection-start-column="26" selection-end-line="419" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="276">
-                  <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+                <state relative-caret-position="291">
+                  <caret line="52" selection-start-line="52" selection-end-line="52" />
                   <folding>
                     <element signature="e#229#492#0" />
                   </folding>
@@ -179,7 +728,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/jquery-ui-1.9.2.custom/index.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/js/main.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/../../My_freedom_lessons/pizza_test_project/store_page/main.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/styles/styles.css" root0="SKIP_INSPECTION" />
@@ -194,8 +742,8 @@
         <option value="$USER_HOME$/Downloads/next.svg" />
         <option value="$USER_HOME$/Downloads/cross-symbol.svg" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/styles/styles.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/styles/styles.css" />
       </list>
     </option>
   </component>
@@ -209,7 +757,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -225,11 +773,6 @@
             <path>
               <item name="Online_store" type="b2602c69:ProjectViewProjectNode" />
               <item name="Online_store" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Online_store" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Online_store" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,15 +829,17 @@
       <workItem from="1562419637027" duration="15965000" />
       <workItem from="1562587843138" duration="6006000" />
       <workItem from="1562681397261" duration="9314000" />
-      <workItem from="1562846377294" duration="11799000" />
+      <workItem from="1562846377294" duration="12580000" />
+      <workItem from="1562933907653" duration="4856000" />
+      <workItem from="1563011630467" duration="3572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43084000" />
+    <option name="totallyTimeSpent" value="52293000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2494043" />
@@ -309,7 +854,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49960285" visible="true" weight="0.26637554" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49960285" visible="true" weight="0.22707424" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039715" side_tool="true" weight="0.31683168" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -334,18 +879,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../My_freedom_lessons/pizza_test_project/store_page/main.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/Downloads/next.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/cross-symbol.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../../My_freedom_lessons/pizza_test_project/store_page/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="2184">
           <caret line="104" column="1" selection-start-line="104" selection-start-column="1" selection-end-line="104" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../My_freedom_lessons/pizza_test_project/store_page/main.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/jquery-ui-1.9.2.custom.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -354,108 +905,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/next.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/cross-symbol.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#229#492#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="120" column="32" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
+        <state relative-caret-position="30">
+          <caret line="349" column="29" selection-start-line="349" selection-start-column="29" selection-end-line="349" selection-end-column="29" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#svg#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#svg#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#path#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#0;n#div#1;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#div#1;n#div#2;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#nav#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#path#0;n#svg#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#div#0;n#div#2;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#nav#0;n#div#1;n#div#3;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#label#0;n#li#0;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#li#1;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#li#2;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#li#3;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#li#4;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#li#5;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#li#6;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#li#7;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#li#8;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#li#9;n#ul#0;n#div#1;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#1;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#2;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#3;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#4;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#5;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#6;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#7;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#8;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#button#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#article#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#article#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#0;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#aside#0;n#section#0;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#aside#0;n#section#2;n#section#0;n#article#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#1;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#0;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#1;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#2;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#3;n#section#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#section#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#section#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#section#3;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#0;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#1;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#2;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#a#2;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#3;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#4;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#5;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#6;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#7;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#a#8;n#section#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#button#0;n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#nav#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#ul#0;n#nav#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#a#0;n#li#0;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#path#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#0;n#li#1;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#a#0;n#li#1;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#path#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#0;n#li#2;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#svg#0;n#a#0;n#li#2;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#path#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#nav#1;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#article#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#article#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="575" column="19" lean-forward="true" selection-start-line="575" selection-start-column="19" selection-end-line="575" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-          <folding>
-            <element signature="e#229#492#0" />
-          </folding>
+        <state relative-caret-position="353">
+          <caret line="419" column="26" lean-forward="true" selection-start-line="419" selection-start-column="26" selection-end-line="419" selection-end-column="26" />
         </state>
       </provider>
     </entry>

@@ -40,38 +40,33 @@ $(document).ready(function () {
     $('#load_more').on('click', function (e) {
         e.preventDefault();
         $('.list_product').append(`
-        <a class="product box anime main_flex__nowrap flex__jcontent_center flex__align-items_center">
-                <div class="tag box">
-                    new
-                </div>
-                <div class="img_product">
-                    <img src="images/01.png" alt="">
-                </div>
-                    <h2>Our Legacy Splash Jacquard Knit</h2>
-                    <p>Black Grey Plants</p>
-                    <p class="price">$290</p>
-            </a>
             <a class="product box anime main_flex__nowrap flex__jcontent_center flex__align-items_center">
                 <div class="tag box">
                     new
                 </div>
                 <div class="img_product">
-                    <img src="images/01.png" alt="">
+                    <img src="images/hoodie1.jpg" alt="">
                 </div>
-                    <h2>Our Legacy Splash Jacquard Knit</h2>
-                    <p>Black Grey Plants</p>
-                    <p class="price">$290</p>
+                <h2>Primitive x Rick & Morty Morty Vortex Hoodie</h2>
+                <p class="price">$55</p>
+            </a>
+
+            <a class="product box anime main_flex__nowrap flex__jcontent_center flex__align-items_center">
+                <div class="img_product">
+                    <img src="images/shitrt3.jpg" alt="">
+                </div>
+                <h2>Alltimers Future Spill Logo T-Shirt</h2>
+                <p class="price">$30</p>
             </a>
             <a class="product box anime main_flex__nowrap flex__jcontent_center flex__align-items_center">
-                <div class="tag box">
-                    new
+                <div class="tag box sale">
+                    sale
                 </div>
                 <div class="img_product">
-                    <img src="images/01.png" alt="">
+                    <img src="images/hoodie3.jpg" alt="">
                 </div>
-                    <h2>Our Legacy Splash Jacquard Knit</h2>
-                    <p>Black Grey Plants</p>
-                    <p class="price">$290</p>
+                <h2>Santa Cruz Skateboarding Is Not A Crime Hoodie</h2>
+                <p class="price pr_sale">$44 <span class="price_through"> $56</span></p>
             </a>`)
     });
 
